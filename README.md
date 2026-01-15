@@ -1,16 +1,5 @@
-# HelloWorld
-
-A minimal C++ Hello World project.
-
-## Build
-
-```bash
-make
-```
+# Naveri Stokes Toy
+A simple 2-D Navier Stokes solver in Python
 
 ## Run
-
-```bash
-./hello
-```
-# HelloWorld
+Solver.py
